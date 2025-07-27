@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb6bf094-889d-46a8-979c-3e7f0abef50a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingRevision.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Array2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ArrayForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ArrayScanerforLoopifCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ArthmaticOperator_switchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/FactorialProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/FindMaxNumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ForLoopBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_NoReturnWithParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_Noreturn_Noparameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_ReturnWith_Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_returnWith_Noparameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/IfElsewithScnner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/MathCubeLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/MaxNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/MaxNum2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Negitive_Positive_Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/PrintStarUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/StringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/String_Buffer_Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/SwitchMultiple_aeiou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Ternearyoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ThreeNumLargeNumIfelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ThreeNumLarge_TernearyOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/TwoNumBigNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/evenoddNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/fiveTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/gradeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/primeNumber.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mESksUveR2hZgdRFmnyEtxdroE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Array2D.executor": "Run",
+    "Application.ArrayForLoop.executor": "Run",
+    "Application.ArrayScanerLoop.executor": "Run",
+    "Application.ArthmaticOperator_switchCase.executor": "Run",
+    "Application.FactorialProgram.executor": "Run",
+    "Application.FindMaxNumInArray.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.ForLoopBreak.executor": "Run",
+    "Application.Function.executor": "Run",
+    "Application.FunctionType2.executor": "Run",
+    "Application.FunctionType3.executor": "Run",
+    "Application.Function_Calculator.executor": "Run",
+    "Application.Function_NoReturnWithParameters.executor": "Run",
+    "Application.IfElsewithScnner.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.MathCubeLogic.executor": "Run",
+    "Application.MaxNum.executor": "Debug",
+    "Application.MaxNum2DArray.executor": "Run",
+    "Application.Negitive_Positive_Num.executor": "Run",
+    "Application.PrintStarUsingArray.executor": "Run",
+    "Application.StringBuffer.executor": "Run",
+    "Application.String_Buffer_Builder.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.SwitchMultiple_aeiou.executor": "Run",
+    "Application.Ternearyoperator.executor": "Run",
+    "Application.ThreeNumLargeNumIfelse.executor": "Run",
+    "Application.ThreeNumLarge_TernearyOperator.executor": "Run",
+    "Application.TwoNumBigNum.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "Application.evenoddNum.executor": "Run",
+    "Application.fiveTable.executor": "Run",
+    "Application.gradeTest.executor": "Run",
+    "Application.proandpostIncrementProgram.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/karam/Documents/Projects/DatadrivenAutomationFramework",
+    "onboarding.tips.debug.path": "/home/karam/Documents/Projects/JavaProgrammingRevision/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Function_Calculator">
+    <configuration name="Function_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.Function_Calculator" />
+      <module name="JavaProgrammingRevision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Function_NoReturnWithParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.Function_NoReturnWithParameters" />
+      <module name="JavaProgrammingRevision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Function_Noreturn_Noparameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.Function_Noreturn_Noparameters" />
+      <module name="JavaProgrammingRevision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Function_ReturnWith_Parameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.Function_ReturnWith_Parameters" />
+      <module name="JavaProgrammingRevision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Function_returnWith_Noparameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.Function_returnWith_Noparameters" />
+      <module name="JavaProgrammingRevision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Function_Calculator" />
+        <item itemvalue="Application.Function_NoReturnWithParameters" />
+        <item itemvalue="Application.Function_ReturnWith_Parameters" />
+        <item itemvalue="Application.Function_returnWith_Noparameters" />
+        <item itemvalue="Application.Function_Noreturn_Noparameters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb6bf094-889d-46a8-979c-3e7f0abef50a" name="Changes" comment="" />
+      <created>1726640389797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726640389797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaProgramming/IfElsewithScnner.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaProgramming/MaxNum.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaProgramming/MaxNum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaProgramming/MaxNum.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
