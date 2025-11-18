@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb6bf094-889d-46a8-979c-3e7f0abef50a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingRevision.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Array2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ArrayForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ArrayScanerforLoopifCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ArthmaticOperator_switchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/FactorialProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/FindMaxNumInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ForLoopBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_NoReturnWithParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_Noreturn_Noparameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_ReturnWith_Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Function_returnWith_Noparameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/IfElsewithScnner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/MathCubeLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/MaxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/MaxNum2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Negitive_Positive_Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/PrintStarUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/StringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/String_Buffer_Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/SwitchMultiple_aeiou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/Ternearyoperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ThreeNumLargeNumIfelse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/ThreeNumLarge_TernearyOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/TwoNumBigNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/evenoddNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/fiveTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/gradeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming/primeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kaurk116&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kaurk116/ABT6xJavaProgramming.git&quot;,
+    &quot;accountId&quot;: &quot;df30df5d-b0c0-4dc1-82fa-9f710f59eac2&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -85,7 +57,7 @@
     "Application.Function.executor": "Run",
     "Application.FunctionType2.executor": "Run",
     "Application.FunctionType3.executor": "Run",
-    "Application.Function_Calculator.executor": "Run",
+    "Application.Function_Calculator.executor": "Coverage",
     "Application.Function_NoReturnWithParameters.executor": "Run",
     "Application.IfElsewithScnner.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -109,7 +81,7 @@
     "Application.proandpostIncrementProgram.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/karam/Documents/Projects/DatadrivenAutomationFramework",
     "onboarding.tips.debug.path": "/home/karam/Documents/Projects/JavaProgrammingRevision/src/Main.java"
@@ -227,5 +199,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaProgrammingRevision$Function_Calculator.ic" NAME="Function_Calculator Coverage Results" MODIFIED="1760167798386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>JavaProgramming.*</FILTER>
+    </SUITE>
   </component>
 </project>
